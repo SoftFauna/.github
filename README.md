@@ -4,30 +4,26 @@ Here at SoftFauna we value reliable software made to get the job done.
 Everything we produce here at SoftFauna is Free OpenSource and/or Public 
 Domain (please see project licensing on an individual basis).
 
-We, the SoftFauna team are strong advocates for the free trade of 
+We, the SoftFauna team, are strong advocates of the free trade of 
 information. Free as in your choice to do what you please with the software, 
 sources, documentation, and resources we provide; no strict copyleft 
-licencing; all permissive free software.
+licencing; all permissive free as in free software.
 
-For any questions or inquieres about SoftFauna or our Software, feel free
-to reach out to us at <mailto:sage.message@email.com>.
-
----
+For any questions or inquieres about SoftFauna or our software, feel free
+to reach out to us through email at <sage.message@email.com>.
 
 ## Our Resources + Software
 
 - [The SoftFauna Style Guides](https://github.com/SoftFauna/softfauna-style-guide.git)
 
----
-
 ## The Team
 
-The SoftFauna team of contributors, small and large, the team that makes it happen.
+The SoftFauna team of contributors, small or large, this is team of contributor that makes it possible.
 
-[![Sage I. Hendricks](https://github.com/sage-etcher.png)](https://github.com/sage-etcher)
+<a href="https://github.com/sage-etcher"><img src="https://github.com/sage-etcher.png" width="48"></a>
 
 ## Licensing
 
-[MIT License](/LICENSE)
+[MIT License](/LICENSE)  
 Copyright (c) 2024 The SoftFauna Team
 
