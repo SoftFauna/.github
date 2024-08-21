@@ -22,7 +22,7 @@ The SoftFauna team of contributors, small or large, this is team of contributor 
 
 <a href="https://github.com/sage-etcher"><img src="https://github.com/sage-etcher.png" width="48"></a>
 
-## Licensing
+## This page's licensing
 
 [MIT License](/LICENSE)  
 Copyright (c) 2024 The SoftFauna Team
