@@ -27,3 +27,6 @@ The SoftFauna team of contributors, small or large, this is team of contributor 
 [MIT License](/LICENSE)  
 Copyright (c) 2024 The SoftFauna Team
 
+## Credits 
+
+Profile Photo by [Joele Pitzalis](https://unsplash.com/@itsjoele?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-blue-butterfly-sitting-on-top-of-a-plant-lZQJcQzSaKQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
